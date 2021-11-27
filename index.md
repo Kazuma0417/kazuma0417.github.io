@@ -10,10 +10,10 @@
 - Web開発
 
 # Skills
-- OS-Windows, Mac
-- Languages-JavaScript
-- Engine, Frameworks-Node.js, Express
-- Tool, MiddleWare-Git, PostgreSQL
+- OS- Windows, Mac
+- Languages- JavaScript
+- Engine, Frameworks- Node.js, Express
+- Tool, MiddleWare- Git, PostgreSQL
 
 # Works
 [GitHub](kazuma0417.github.io)
