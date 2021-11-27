@@ -25,4 +25,4 @@
 [GitHub](kazuma0417.github.io)
 
 # Contact
-[Mail](kazuma_20n4100016@nnn.ed.jp)
+[Mail](mailto:kazuma_20n4100016@nnn.ed.jp)
