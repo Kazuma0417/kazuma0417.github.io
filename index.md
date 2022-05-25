@@ -1,12 +1,6 @@
-![N予備校ロゴ](478b4cf1-private.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xhOsnY-k8JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe src="https://openprocessing.org/sketch/1369717/embed/" width="400" height="400"></iframe>
-
 # About
 
-プログラミングを勉強している生徒です。  
+プログラミングを勉強しているN高生徒です。  
 高校はN高等学校に通っています。  
 趣味はゲームです。  
 
@@ -17,11 +11,12 @@
 
 # Skills
 - OS- Windows, Mac
-- Languages- JavaScript
+- Languages- HTML, CSS, JavaScript
 - Engine, Frameworks- Node.js, Express
 - Tool, MiddleWare- Git, PostgreSQL
 
 # Works
+<iframe src="https://openprocessing.org/sketch/1369717/embed/" width="400" height="400"></iframe>
 [GitHub](kazuma0417.github.io)
 
 # Contact
