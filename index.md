@@ -19,12 +19,12 @@
 # Works
 <iframe src="https://openprocessing.org/sketch/1369717/embed/" width="400" height="400"></iframe>
 - [GitHub](kazuma0417.github.io)
-- [Timer](kazuma0417.github.io/timer)
-- [1日のカウントダウンタイマー](kazuma0417.github.io/countdown)
-- [N水族館](kazuma0417.github.io/n-aquarium)
-- [おみくじ](kazuma0417.github.io/omikuji)
-- [1人Twitter](kazuma0417.github.io/hitori-twitter)
-- [イメージギャラリー](/image-gallary)
+- [Timer](timer)
+- [1日のカウントダウンタイマー](countdown)
+- [N水族館](n-aquarium)
+- [おみくじ](omikuji)
+- [1人Twitter](hitori-twitter)
+- [イメージギャラリー](image-gallary)
 - [Carousel Panel](carousel-panel)
 
 # Contact
