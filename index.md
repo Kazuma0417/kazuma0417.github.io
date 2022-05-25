@@ -23,8 +23,8 @@
 - [N水族館](kazuma0417.github.io/n-aquarium)
 - [おみくじ](kazuma0417.github.io/omikuji)
 - [1人Twitter](kazuma0417.github.io/hitori-twitter)
-- [イメージギャラリー](kazuma0417.github.io/image-gallary)
-- [Carousel Panel](kazuma0417.github.io/carousel-panel)
+- [イメージギャラリー](/image-gallary)
+- [Carousel Panel](carousel-panel)
 
 # Contact
 [Mail](mailto:kazuma_20n4100016@nnn.ed.jp)
