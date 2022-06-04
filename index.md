@@ -20,7 +20,7 @@
 <iframe src="https://openprocessing.org/sketch/1369717/embed/" width="400" height="400"></iframe>
 - [GitHub](kazuma0417.github.io)
 - [予定調整](https://boiling-badlands-07908.herokuapp.com/)
-- [Timer](timer)
+- [タイマー](timer)
 - [1日のカウントダウンタイマー](countdown)
 - [N水族館](n-aquarium)
 - [おみくじ](omikuji)
