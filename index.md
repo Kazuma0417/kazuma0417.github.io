@@ -26,6 +26,7 @@
 - [おみくじ](omikuji)
 - [1人Twitter](hitori-twitter)
 - [ToDOリスト](todo)
+- [クイズ](quiz)
 - [イメージギャラリー](image-gallary)
 - [Carousel Panel](carousel-panel)
 
