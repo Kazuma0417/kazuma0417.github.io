@@ -27,7 +27,7 @@
 - [1人Twitter](hitori-twitter)
 - [ToDOリスト](todo)
 - [クイズ](quiz)
-- [スケジュール調整](schedule)
+- [スケジュールアプリ](schedule)
 - [顔認証](facetrack)
 - [ペイント](painting)
 - [イメージギャラリー](image-gallary)
