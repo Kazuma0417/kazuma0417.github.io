@@ -30,6 +30,7 @@
 - [スケジュールアプリ](schedule)
 - [顔認証](facetrack)
 - [ペイント](painting)
+- [電卓](calculator)
 - [イメージギャラリー](image-gallary)
 - [Carousel Panel](carousel-panel)
 
