@@ -33,8 +33,8 @@
 - [電卓](calculator)
 - [イメージギャラリー](image-gallary)
 - [Carousel Panel](carousel-panel)
-- [いいところ診断](labeneko-iitokoro-91713.web.app)
-- [日記帳](labeneko-diary-14bf3.web.app)
+- [いいところ診断](https://labeneko-iitokoro-91713.web.app)
+- [日記帳](https://labeneko-diary-14bf3.web.app)
 
 # Contact
 [Mail](mailto:kazuma_20n4100016@nnn.ed.jp)
