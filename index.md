@@ -38,6 +38,7 @@
 - [ログイン機能付きメモ帳](memo)
 - [時計](clock)
 - [ルーレット](roulette)
+- [QRコード生成](qr)
 
 # Contact
 [Mail](mailto:kazuma.programming@gmail.com)
