@@ -35,6 +35,7 @@
 - [Carousel Panel](carousel-panel)
 - [いいところ診断](https://labeneko-iitokoro-91713.web.app)
 - [日記帳](https://labeneko-diary-14bf3.web.app)
+- [ポートフォリオページ](portfolio)
 - [ログイン機能付きメモ帳](memo)
 - [時計](clock)
 - [ルーレット](roulette)
