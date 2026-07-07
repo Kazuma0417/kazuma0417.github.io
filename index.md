@@ -2,8 +2,7 @@
 # About
 
 現在はPythonを中心に学習を進め、効率化やWebページ制作、将来的にはアプリ開発を目指しています。  
-技術への尽きない情熱を意識し、コードを通じて価値を創造することに日々挑戦しています。  
-趣味はゲームです。 
+ユーザーにとって使いやすく、保守しやすい設計を意識した開発を心掛けています。
 
 ## Profile
 - 大城一誠
@@ -12,7 +11,7 @@
 
 # Skills
 - OS- Windows, Mac
-- Languages- HTML, CSS, JavaScript
+- Languages- HTML, CSS, JavaScript, Python
 - Engine, Frameworks- Node.js, Express
 - Tool, MiddleWare- Git, PostgreSQL
 
