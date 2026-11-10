@@ -21,7 +21,7 @@
 - [予定調整](https://boiling-badlands-07908.herokuapp.com/)
 - [タイマー](timer)
 - [1日のカウントダウンタイマー](countdown)
-- [時間指定無音アラーム](timer2)
+- [時間指定無音タイマー](timer2)
 - [N水族館](n-aquarium)
 - [おみくじ](omikuji)
 - [1人Twitter](hitori-twitter)
